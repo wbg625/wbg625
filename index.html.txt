@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <title>正在跳转...</title>
-    <meta http-equiv="refresh" content="2;url=https://www.baidu.com/">
+    <meta http-equiv="refresh" content="2;url=https://go.fiverr.com/visit/?bta=1123348&brand=fiverraffiliates&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsearch%252Fgigs%253Fquery%253Dprofessional%252520graphic%252520designer%2526source%253Dtop-bar%2526acmpl%253D1%2526search_in%253Deverywhere%2526search-autocomplete-original-term%253Dgraphic%252520designer%2526search-autocomplete-available%253Dtrue%2526search-autocomplete-type%253Dsuggest%2526search-autocomplete-position%253D1%2526ref_ctx_id%253D9b8756e00a804c2e84ecf05d2ea80e68">
   </head>
   <body>
     <p>正在跳转，请稍等…</p>
-    <p>如果没有跳转，请 <a href="https://你的CPA链接.com">点击这里</a></p>
+    <p>如果没有跳转，请 <a href="https://go.fiverr.com/visit/?bta=1123348&brand=fiverraffiliates&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsearch%252Fgigs%253Fquery%253Dprofessional%252520graphic%252520designer%2526source%253Dtop-bar%2526acmpl%253D1%2526search_in%253Deverywhere%2526search-autocomplete-original-term%253Dgraphic%252520designer%2526search-autocomplete-available%253Dtrue%2526search-autocomplete-type%253Dsuggest%2526search-autocomplete-position%253D1%2526ref_ctx_id%253D9b8756e00a804c2e84ecf05d2ea80e68">点击这里</a></p>
   </body>
 </html>
